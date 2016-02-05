@@ -1,12 +1,15 @@
 # emoticol
 Emoticol is an Instant Messaging protocol that relies heavily on emoticons
 
+#####Conversation Initiation Commands
+
 **`:|`**  -  Initiate casual conversation.  Requires a response of **`:|`**.  This was the first emoticol command, the intent is to prevent launching into a conversation at an inopportune time or place for the recipient.
 
 **`:|` `:|`** - Initiate time sensitive conversation. Requires a response of **`:|` `:|`**.  This initiation sequence is used when you have really good information you are eager to share.  Not necessarily urgent, but might be worth responding in situations when you might ignore a **`:|`**.
 
 **`:|`` :|`` :|`** - Initiate urgent conversation. Requires a response of **`:|`` :|`` :|`**. Will be escalated to other communication methods if no response recieved.
 
+#####In Conversation Commands
 
 **`ack`** - I have seen your message but have no comment
 
