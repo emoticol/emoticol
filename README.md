@@ -1,7 +1,7 @@
 # emoticol
 Emoticol is an Instant Messaging protocol that relies heavily on emoticons
 
-**`:|`**  -  Initiate casual conversation.  Requires a response of :|.
+**`:|`**  -  Initiate casual conversation.  Requires a response of **`:|`**.
 
 **`:|` `:|`** - Initiate time sensitive conversation
 
