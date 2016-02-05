@@ -9,7 +9,7 @@ Emoticol is an Instant Messaging protocol that relies heavily on emoticons
 
 **`:|`` :|`` :|`** - Initiate urgent conversation. Requires a response of **`:|`` :|`` :|`**. Will be escalated to other communication methods if no response recieved.
 
-**`aa`** - "ask about", appended to a conversation initation request so that the requestor doesn't forget what they were going to say.  Example -  *`:| aa meeting today`*
+**`aa`** - "ask about", appended to a conversation initation request so that the requestor doesn't forget what they were going to say.  Intended to be vague, assume message could be intercepted.  Example -  *`:| aa meeting today`*
 
 #####In Conversation Commands
 
