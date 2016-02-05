@@ -10,7 +10,7 @@ Emoticol is an Instant Messaging protocol that relies heavily on emoticons
 
 **`ack`** - I have seen your message but have no comment
 
-**`^** - I think you may have missed a comment above, please respond or ack
+**`^`** - I think you may have missed a comment above, please respond or ack
 
 **`(ASL)`** - "Anything to Report?"  aka "How's it going?"
 
