@@ -11,6 +11,8 @@ Emoticol is an Instant Messaging protocol that relies heavily on emoticons
 
 **`aa`** - "ask about", appended to a conversation initation request so that the requestor doesn't forget what they were going to say.  Intended to be vague, assume message could be intercepted.  Example -  *`:| aa meeting today`*
 
+**`-_-`**  -  Can't respond at the moment.
+
 #####In Conversation Commands
 
 **`ack`** - I have seen your message but have no comment
