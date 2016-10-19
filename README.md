@@ -26,3 +26,5 @@ Emoticol is an Instant Messaging protocol that relies heavily on emoticons
 **`%`** - used to question the authenticity of a statement.  Report the % you believe a statement to be true, originator of the statment must respond with the actual % true.
 
 **`=`** - used to correct a typo in a previous statement, example: "my internal diagnostics idicate memory systems are functioning within normal parameters.  idicate=indicate"
+
+**`?20`** - "Where are you?"
