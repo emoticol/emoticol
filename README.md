@@ -24,7 +24,7 @@ Emoticol is an Instant Messaging protocol that relies heavily on emoticons
 
 **`^`** - I think you may have missed a comment above, please respond or **`ack`**
 
-**`(ASL)`** - "Anything to Report?"  aka "How's it going?"
+**`(?)`** - "Anything to Report?" or  "How's it going?"
 
 **`%`** - used to question the authenticity of a statement.  Report the % you believe a statement to be true, originator of the statment must respond with the actual % true.
 
