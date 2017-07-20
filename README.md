@@ -31,3 +31,8 @@ Emoticol is an Instant Messaging protocol that relies heavily on emoticons
 **`=`** - used to correct a typo in a previous statement, example: "my internal diagnostics idicate memory systems are functioning within normal parameters.  idicate=indicate"
 
 **`?20`** - "Where are you?"
+
+**`omw`** - "On my way"
+
+**`goml`** - "Get off my lawn!" - Can be used in two ways.  The first is in response to someone ssaying something like "Hey, did you see that the new iPhone 17 is out?".  A `goml` response here would mean that the responded is not interested in such fancy new contraptions, their bag phone works just fine thank you very nice.  The second would be as a mild epithet use in response to someone saying something like "That new iPhone 17 is garbage.  What's a phone without a screen?  I'm not getting those ocular implants."  A `goml` response here is the respondent poking fun at the OP.
+
