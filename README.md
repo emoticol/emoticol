@@ -7,7 +7,7 @@ Emoticol is an Instant Messaging protocol that relies heavily on emoticons
 
 **`:|` `:|`** - Initiate time sensitive conversation. Requires a response of **`:|` `:|`**.  This initiation sequence is used when you have really good information you are eager to share.  Not necessarily urgent, but might be worth responding in situations when you might ignore a **`:|`**.
 
-**`:| :| :|`** - Initiate urgent conversation. Requires a response of **`:|`` :|`` :|`**. Will be escalated to other communication methods if no response recieved.
+**`:| :| :|`** - Initiate urgent conversation. Requires a response of **`:| :| :|`**. Will be escalated to other communication methods if no response recieved.
 
 **`@`** - request for a focused conversation, the equivalent of 'got a minute' in the real world, respond with **`@`** when appropriate focus can be granted, otherwise standard casual conversation may continue if previously initiated.  Urgency is not implied, unless combined with **`:|` `:|`** or **`:|`` :|`` :|`**
 
