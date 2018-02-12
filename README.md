@@ -9,7 +9,7 @@ Emoticol is an Instant Messaging protocol that relies heavily on emoticons
 
 **`:| :| :|`** - Initiate urgent conversation. Requires a response of **`:| :| :|`**. Will be escalated to other communication methods if no response recieved.
 
-**`@`** - request for a focused conversation, the equivalent of 'got a minute' in the real world, respond with **`@`** when appropriate focus can be granted, otherwise standard casual conversation may continue if previously initiated.  Urgency is not implied, unless combined with **`:|` `:|`** or **`:|`` :|`` :|`**
+**`@`** - request for a focused conversation, the equivalent of 'got a minute' in the real world, respond with **`@`** when appropriate focus can be granted, otherwise standard casual conversation may continue if previously initiated.  Urgency is not implied, unless combined with **`:|` `:|`** or **`:| :| :|`**
 
 **`aa`** - "ask about", appended to a conversation initation request so that the requestor doesn't forget what they were going to say.  Intended to be vague, assume message could be intercepted.  Example -  *`:| aa meeting today`*
 
